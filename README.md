@@ -8,6 +8,6 @@ Add, list, delete, update book availability
 Simple input validation
 
  How to Run
-git clone https://github.com/your-username/library-api.git
+gh repo clone Mustafizali/LibraryApi
 cd library-api
 mvn spring-boot:run
